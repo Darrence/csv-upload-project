@@ -77,6 +77,10 @@ In another terminal, start the frontend:
 cd frontend
 npm start
 
+Option 2: Run With Docker (Recommended)
+Ensure Docker is installed, then run:
+docker-compose up --build
+
 This will start:
 
 Backend on http://localhost:5000
